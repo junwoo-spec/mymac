@@ -1,5 +1,9 @@
 {
 	public void main(Object[] args){
 		1
+
+		테스트2 {
+			로그인
+		}
 	}
 }
