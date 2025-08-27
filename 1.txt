@@ -1,5 +1,5 @@
 {
 	public void main(Object[] args){
-		
+		1
 	}
 }
